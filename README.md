@@ -1,5 +1,7 @@
-# template-rust
+# command-line-rust
 
+# Reference
+[Rustの練習帳](https://www.oreilly.co.jp/books/9784814400584/)
 
 # Basic Usage
 ```
