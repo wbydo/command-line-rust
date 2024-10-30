@@ -17,3 +17,9 @@ cargo check
 cargo build --release
 cargo run --release
 ```
+
+# `src/bin` 内のコマンドの実行の仕方
+
+```
+cargo run --quiet --bin false
+```
